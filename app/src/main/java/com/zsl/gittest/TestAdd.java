@@ -5,5 +5,4 @@ package com.zsl.gittest;
  */
 public class TestAdd {
 
-	//测试Add
 }
